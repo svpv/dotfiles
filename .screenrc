@@ -1,0 +1,5 @@
+startup_message off
+sorendition =b kc
+hardstatus alwayslastline "%{-b}%-w%{+b}%n %t%{-b}%+w %=%D %M %d %c"
+shelltitle '$ |sh'
+defscrollback 9999
