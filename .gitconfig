@@ -1,0 +1,7 @@
+[user]
+	name = Alexey Tourbin
+	email = at@altlinux.ru
+	signingkey = 0x38E7BB46
+[color]
+	diff = auto
+	grep = auto
