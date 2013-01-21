@@ -7,3 +7,5 @@ set incsearch
 " case-insensitive search for lowercase patterns
 set ignorecase
 set smartcase
+" save files readily
+set autowrite
