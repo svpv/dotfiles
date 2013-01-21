@@ -6,3 +6,8 @@
 	grep = auto
 [merge]
 	tool = vimdiff
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.gmail.com
+	smtpuser = alexey.tourbin@gmail.com
+	smtpserverport = 587
