@@ -11,3 +11,4 @@
 	smtpserver = smtp.gmail.com
 	smtpuser = alexey.tourbin@gmail.com
 	smtpserverport = 587
+	suppressfrom = true
