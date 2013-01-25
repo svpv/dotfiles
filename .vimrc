@@ -9,3 +9,5 @@ set ignorecase
 set smartcase
 " save files readily
 set autowrite
+" enable filetype plugins
+filetype plugin indent on
