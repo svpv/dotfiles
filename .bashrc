@@ -7,5 +7,6 @@ fi
 
 # User specific aliases and functions
 alias l='ls -lApt'
+alias v='vim'
 
 export EDITOR=vim
