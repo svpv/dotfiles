@@ -10,3 +10,4 @@ alias l='ls -lApt'
 alias v='vim'
 
 export EDITOR=vim
+export LESS='-isR'
