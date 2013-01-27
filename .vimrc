@@ -11,5 +11,7 @@ set smartcase
 set autowrite
 " always show status line
 set laststatus=2
+" read .exrc
+set exrc
 " enable filetype plugins
 filetype plugin indent on
