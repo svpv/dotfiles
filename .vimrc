@@ -9,5 +9,7 @@ set ignorecase
 set smartcase
 " save files readily
 set autowrite
+" always show status line
+set laststatus=2
 " enable filetype plugins
 filetype plugin indent on
