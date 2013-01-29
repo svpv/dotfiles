@@ -14,3 +14,8 @@ export LESS='-isR'
 
 Sum() { perl -MList::Util=sum -ln0 -e 'print sum(split)' ; }
 Stats() { stats.pl ; }
+
+HISTSIZE=99999
+HISTFILESIZE=99999
+HISTCONTROL=erasedups
+shopt -s histappend
