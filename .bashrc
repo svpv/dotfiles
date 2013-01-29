@@ -11,3 +11,6 @@ alias v='vim'
 
 export EDITOR=vim
 export LESS='-isR'
+
+Sum() { perl -MList::Util=sum -ln0 -e 'print sum(split)' ; }
+Stats() { stats.pl ; }
