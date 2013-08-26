@@ -1,3 +1,5 @@
+" highlight syntax
+syntax on
 " don't wrap long lines
 set nowrap
 " highlight search
